@@ -1,0 +1,4 @@
+[03-Nov-2014 06:19:14 Europe/Rome] PHP Fatal error:  Call to undefined function fix_get_params() in /home/beuwhole/public_html/assets/admin/filemanager/dialog.php on line 189
+[03-Nov-2014 06:19:28 Europe/Rome] PHP Fatal error:  Call to undefined function fix_get_params() in /home/beuwhole/public_html/assets/admin/filemanager/dialog.php on line 189
+[03-Nov-2014 06:20:35 Europe/Rome] PHP Fatal error:  Call to undefined function fix_get_params() in /home/beuwhole/public_html/assets/admin/filemanager/dialog.php on line 189
+[03-Nov-2014 06:21:44 Europe/Rome] PHP Fatal error:  Call to undefined function fix_get_params() in /home/beuwhole/public_html/assets/admin/filemanager/dialog.php on line 189

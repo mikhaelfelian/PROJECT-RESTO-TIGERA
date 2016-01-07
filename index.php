@@ -1,5 +1,4 @@
 <?php
-// Mikhael Felian
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
